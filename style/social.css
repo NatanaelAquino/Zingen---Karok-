@@ -16,7 +16,6 @@ a.social {
       background-image: url(../assets/icons/tiktok_hover.svg);
     }
   }
-
   &[aria-label="instagram"] {
     background-image: url(../assets/icons/instagram.svg);
 
@@ -24,7 +23,6 @@ a.social {
       background-image: url(../assets/icons/instagram_hover.svg);
     }
   }
-
   &[aria-label="twitter"] {
     background-image: url(../assets/icons/twitter.svg);
 
