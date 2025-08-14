@@ -13,6 +13,9 @@
 .px-xl {
   padding-inline: var(--px-xl);
 }
+.px-lg {
+  padding-inline: var(--px-lg);
+}
 
 .container {
   --max-width: 375px;
